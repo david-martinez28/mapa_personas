@@ -1,0 +1,6 @@
+[
+  { "key": "absentismo",       "label": "Absentismo",       "color": "#ea580c" },
+  { "key": "dependencia",      "label": "Dependencia",      "color": "#2563eb" },
+  { "key": "renta_valenciana", "label": "Renta valenciana", "color": "#7c3aed" },
+  { "key": "sin_hogar",        "label": "Sin hogar",        "color": "#dc2626" }
+]

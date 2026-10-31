@@ -1,0 +1,9 @@
+﻿Nombre,Teléfono,Tipo,Dirección
+Ana Pérez,600123456,Sin hogar,Calle Colón 5
+Luis & Hijos <S.L.>,+34 611 222 333,dependencia,"Avenida de Madrid 52, Elda"
+Marta Ñandú,,Renta Valenciana,Calle Nueva 27
+Pedro,abc,Absentismo,Calle Jardines 9
+Sin tipo,600000001,,Calle X 1
+Tipo raro,600000002,Otro,Calle X 2
+,600000003,Sin hogar,Calle X 3
+Ana Pérez,600123456,sin_hogar,"calle colon 5, ELDA"
